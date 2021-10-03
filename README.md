@@ -3,7 +3,8 @@
 ## Kallan_Ser_Bot 
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
+  <img border-radius: 15px src="kallanbot.jpg " width="170" height="170"/>
+
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
